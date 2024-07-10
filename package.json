@@ -8,8 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "browserify": "^17.0.0",
     "retell-client-js-sdk": "^2.0.2"
-  }
+  },
+  "description": ""
 }
